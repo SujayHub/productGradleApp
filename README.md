@@ -1,2 +1,2 @@
 # productGradleApp
-This is the repo to submit assignmnet of udemy for learning gradle
+This is the repo to submit assignment of udemy for learning gradle
